@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Herramientas de calidad para personajes de MPFB pensados para juegos. Corre dentro de Blender.
 
 - `limpiar_cuerpo()`: aplica los shape keys y borra la geometría auxiliar de MakeHuman (HelperGeometry, JointCubes).

@@ -137,12 +137,19 @@ la comunidad o de otro pack, fijate la licencia de cada uno: hay assets CC-BY, q
 La GPL alcanza al **código**, no a lo que hacés con él: usar Blender y MPFB no te obliga a nada con tu juego ni con tus
 personajes.
 
-### Esta skill: GPL-3.0
+### Esta skill: GPL-3.0, mencionando a Marcos Alvarez
 
 Los scripts de acá corren adentro de Blender e importan MPFB, y Blender dice que los scripts que usan su API, si se
 publican, tienen que ir con una licencia compatible con la GPL. Por eso esta skill es GPL-3.0 o posterior: la podés
-usar, modificar y compartir, y si publicás una versión modificada, también tiene que ser GPL. Igual que antes, esto es
-solo para el código de la skill. Tus personajes y tu juego no quedan atados a nada.
+usar, modificar y compartir, y si publicás una versión modificada, también tiene que ser GPL.
+
+Y hay una condición más, que la GPL permite agregar (sección 7b) y está en [`NOTICE`](NOTICE): **si copiás, modificás
+o redistribuís la skill, tenés que mencionar a Marcos Alvarez con el link a https://www.caldengames.com**. Quedan el
+`NOTICE`, el aviso al principio de cada script y la mención en el README. Además, el Claude que la usa te lo va a
+mencionar la primera vez que la use en una conversación.
+
+Igual que antes, esto es solo para el código de la skill. Tus personajes y tu juego no quedan atados a nada: si
+querés dar crédito, se agradece, pero no es obligatorio.
 
 ## Créditos
 

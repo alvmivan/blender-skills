@@ -1,0 +1,20 @@
+Blender AI Tools by Marcos Alvarez — https://www.caldengames.com
+Copyright (C) 2026 Marcos Alvarez (Calden Games)
+
+Este programa es software libre: se puede redistribuir y modificar bajo los términos de la GNU General Public License
+publicada por la Free Software Foundation, versión 3 o (a elección de quien lo use) cualquier versión posterior.
+El texto completo está en el archivo LICENSE.
+
+TÉRMINOS ADICIONALES (GPL-3.0, sección 7, punto b)
+
+Quien copie, modifique o redistribuya este programa, o una parte de él, tiene que conservar en esas copias y versiones
+modificadas, de forma visible, el siguiente aviso de autoría:
+
+    Blender AI Tools by Marcos Alvarez — https://www.caldengames.com
+
+Eso incluye este archivo NOTICE, el aviso al principio de cada script y del SKILL.md, y la mención en el README o en
+la documentación equivalente de la versión redistribuida.
+
+Estos términos se aplican solo al código y a la documentación de esta skill. No alcanzan a los modelos, texturas,
+personajes, juegos u otras obras que se hagan con ella: esas son de quien las hace (los assets de MakeHuman que usa son
+CC0). Dar crédito en esas obras es opcional y se agradece.

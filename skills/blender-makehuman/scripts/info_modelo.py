@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Resumen de un modelo para verificar antes de pasarlo al motor: armaduras, mallas, triángulos, materiales, texturas.
 
 Uso: blender -b <modelo>.blend --python info_modelo.py

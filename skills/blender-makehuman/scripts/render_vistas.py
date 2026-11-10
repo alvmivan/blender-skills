@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Renders rápidos de previsualización (Workbench, sin GPU) para comparar un personaje contra su referencia.
 
 Como módulo (dentro de otro script):

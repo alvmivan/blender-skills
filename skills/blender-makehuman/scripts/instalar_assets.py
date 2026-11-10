@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Instala el pack de assets del sistema de MakeHuman (CC0: ojos, cejas, pestañas, dientes, pelos, ropa, pieles) en MPFB.
 
 Uso (MPFB ya instalado y habilitado):

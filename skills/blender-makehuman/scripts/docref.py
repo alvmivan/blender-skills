@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Genera `docref/`: la referencia de la API del Blender y del MPFB que están INSTALADOS en esta máquina, en Markdown.
 
 La idea es no depender de lo que el agente "se acuerda": las firmas y docstrings salen del propio Blender y del propio

@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Chequeo rápido del entorno: Blender, MPFB, carpeta de datos, pack de assets y rigs. Sale con código 1 si falta algo.
 
 Uso: blender -b --python verificar.py

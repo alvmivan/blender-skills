@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Construye un humanoide de MPFB listo para un motor de juego, a partir de una ficha JSON.
 
 Uso:

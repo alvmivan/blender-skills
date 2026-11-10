@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Acceso a MPFB (MakeHuman para Blender) desde scripts que corren dentro de Blender.
 
 Lo importan los demás scripts de la skill. Resuelve lo que más falla al automatizar MPFB:

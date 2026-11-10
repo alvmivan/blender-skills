@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Mapas PBR con numpy puro (sirve tanto en el Python del sistema como en el de Blender, que no trae scipy).
 
 Convenciones:

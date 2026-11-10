@@ -1,3 +1,4 @@
+# Blender AI Tools by Marcos Alvarez — https://www.caldengames.com · GPL-3.0-or-later (ver NOTICE y LICENSE)
 """Exporta un personaje riggeado para un motor de juego.
 
 Como módulo:   import exportar; exportar.exportar("salida/Pj.fbx", motor="unity")
