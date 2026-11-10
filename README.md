@@ -4,7 +4,7 @@
 
 Una skill para Claude Code que le deja a Claude manejar **MakeHuman adentro de Blender**, todo por script, sin tocar la
 interfaz. Le pedís un personaje y te lo arma: cuerpo, cara, rig, ojos, pelo, ropa, piel, y te lo exporta listo para
-meterlo en el motor. 😃
+meterlo en el motor.
 
 Y no solo eso: **te setupea Blender**. Se fija qué tenés instalado, te instala el add-on de MakeHuman (MPFB), te baja
 el pack de assets y te deja todo andando.
@@ -50,7 +50,7 @@ Si querés fotorealismo en los personajes, **andá a todo o nada**: o lo llevás
 expresiones, animación de cara, buena luz), o te quedás del lado seguro del valle con algo más estilizado.
 
 Lo que no conviene es quedarse a mitad de camino. Salvo que estés haciendo terror y ese "da cosa" sea justamente lo que
-buscás. 😉
+buscás.
 
 ## Instalación
 
