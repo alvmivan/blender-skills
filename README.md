@@ -35,7 +35,8 @@ Con esto:
 - **Variás por parámetros**: más alto, más viejo, más gordo, otra cara. Ideal para extras y gente de fondo.
 - **Es repetible**: el personaje es una ficha JSON, no un archivo que alguien tocó a mano y nadie sabe cómo. Lo
   reconstruís cuando quieras.
-- **Los assets son CC0**, así que no tenés dramas de licencias con la ropa, el pelo o las pieles del pack.
+- **Los personajes que hacés son tuyos**, y los podés meter en un juego comercial y cerrado sin pagar ni dar crédito
+  (ver [Licencias](#licencias)).
 - **Lo que aprendimos a los golpes ya está adentro**: las trampas de Blender sin interfaz, de MPFB y de la importación
   en Unity están documentadas en la skill, para que no te coman las mismas horas que a nosotros.
 
@@ -103,6 +104,45 @@ blender -b --python skills/blender-makehuman/scripts/humano.py -- skills/blender
 - Expresiones de cara con el pack `faceunits01`: MPFB las soporta, la skill todavía no.
 - Instalar todo de cero en una máquina limpia. Lo armamos y probamos en Windows sobre un Blender que ya tenía MPFB;
   macOS y Linux, sin probar.
+
+## Licencias
+
+Hay tres cosas distintas, cada una con su licencia. Ojo que acá no estoy dando asesoramiento legal; esto es lo que dicen
+las páginas oficiales, con los links para que lo chequees vos.
+
+### Lo que sale de acá (tus personajes): CC0, hacé lo que quieras
+
+- **El cuerpo de MakeHuman** (la malla base, los targets de forma, las pieles, los pesos de los rigs) viene adentro de
+  MPFB y es **CC0**. Lo dice cada archivo: *"This asset was explicitly released as CC0 in september 2020"*.
+- **El pack de assets del sistema**, `makehuman_system_assets` (el zip `makehuman_system_assets_cc0.zip`, el que
+  instala la skill): son 94 assets (ojos, cejas, pestañas, dientes, lengua, pelos, ropa, zapatos y pieles) y **los 94
+  son CC0** según los metadatos del propio pack.
+- O sea: los personajes que armás con esto los podés usar en un juego comercial y de código cerrado, venderlos,
+  modificarlos, sin pagar nada y sin tener que nombrar a nadie. Fuentes:
+  [licencia de MakeHuman y MPFB](https://static.makehumancommunity.org/about/license.html) ·
+  [¿puedo vender modelos hechos con MPFB?](https://static.makehumancommunity.org/mpfb/faq/can_i_sell_models.html) ·
+  [¿puedo usarlos en un juego comercial cerrado?](https://static.makehumancommunity.org/makehuman/faq/can_i_sell_models_created_with_makehuman.html)
+- **Lo que hacés con Blender también es tuyo**: *"What you create with Blender is your sole property"*
+  ([licencia de Blender](https://www.blender.org/about/license/)).
+
+**Cuidado con los assets de terceros.** Lo de arriba vale para los assets del sistema. Si le agregás ropa o pelo de
+la comunidad o de otro pack, fijate la licencia de cada uno: hay assets CC-BY, que te piden dar crédito al autor.
+
+### Las herramientas: GPL
+
+- **Blender** es GPL (v3 o posterior para los binarios).
+- **MPFB** (el add-on) es **GPL-3.0 o posterior**.
+- **MakeHuman** (el programa aparte, que esta skill no usa) es AGPL.
+
+La GPL alcanza al **código**, no a lo que hacés con él: usar Blender y MPFB no te obliga a nada con tu juego ni con tus
+personajes.
+
+### Esta skill: GPL-3.0
+
+Los scripts de acá corren adentro de Blender e importan MPFB, y Blender dice que los scripts que usan su API, si se
+publican, tienen que ir con una licencia compatible con la GPL. Por eso esta skill es GPL-3.0 o posterior: la podés
+usar, modificar y compartir, y si publicás una versión modificada, también tiene que ser GPL. Igual que antes, esto es
+solo para el código de la skill. Tus personajes y tu juego no quedan atados a nada.
 
 ## Créditos
 

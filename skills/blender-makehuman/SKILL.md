@@ -93,6 +93,16 @@ Lista completa en `references/trampas.md`. Las cinco que más muerden:
 - En Unity, generá el Avatar **después** de fijar la escala del modelo: si no, el Animator multiplica las posiciones y
   el personaje desaparece.
 
+## Licencias (si el usuario pregunta, o antes de sumar assets de terceros)
+
+- Malla base, targets, pieles y pesos de rig de MPFB, y los 94 assets del pack `makehuman_system_assets`: **CC0**
+  (cada archivo lo declara; el pack lo dice en `data/packs/makehuman_system_assets.json`). Los personajes se pueden
+  usar en juegos comerciales cerrados, sin crédito. Fuente: https://static.makehumancommunity.org/about/license.html
+- Assets de la comunidad o de otros packs: revisar la licencia de **cada uno** (campo `license` en el `.json` del pack
+  o el encabezado del `.mhclo`/`.mhmat`). Hay CC-BY, que obliga a dar crédito: avisale al usuario antes de usarlos.
+- Blender es GPL; MPFB, GPL-3.0 o posterior. La GPL alcanza al código, no a los modelos que se exportan.
+- No des asesoramiento legal: citá la fuente oficial.
+
 ## Al terminar
 
 Contale al usuario qué se generó (archivos, triángulos, altura), mostrá las previas, qué quedó sin verificar (por
