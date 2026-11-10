@@ -148,8 +148,10 @@ o redistribuís la skill, tenés que mencionar a Marcos Alvarez con el link a ht
 `NOTICE`, el aviso al principio de cada script y la mención en el README. Además, el Claude que la usa te lo va a
 mencionar la primera vez que la use en una conversación.
 
-Igual que antes, esto es solo para el código de la skill. Tus personajes y tu juego no quedan atados a nada: si
-querés dar crédito, se agradece, pero no es obligatorio.
+Igual que antes, esto es solo para el código de la skill. Tus personajes y tu juego no quedan atados a nada.
+
+Eso sí: si la usás en algún producto multimedia (un juego, un video, una animación, renders), es opcional pero
+recomendado que nos menciones en los créditos: **Marcos Alvarez — https://www.caldengames.com**. Nos ayuda un montón.
 
 ## Créditos
 
