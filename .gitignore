@@ -1,0 +1,11 @@
+# Referencia generada por scripts/docref.py: depende del Blender y el MPFB de cada máquina
+docref/
+
+# Salidas de prueba
+salida_*/
+*.blend1
+__pycache__/
+*.pyc
+
+# Zips de assets (pesan ~300 MB)
+*.zip

@@ -1,0 +1,8 @@
+{
+  "name": "blender-ai-tools",
+  "description": "Skills para manejar Blender por script: humanoides de MakeHuman (MPFB) listos para juegos, con instalación, ficha JSON, horneado y export a Unity/Godot.",
+  "version": "0.1.0",
+  "author": { "name": "Marcos Alvarez", "url": "https://www.caldengames.com" },
+  "homepage": "https://www.caldengames.com",
+  "keywords": ["blender", "makehuman", "mpfb", "gamedev", "unity", "godot", "characters"]
+}

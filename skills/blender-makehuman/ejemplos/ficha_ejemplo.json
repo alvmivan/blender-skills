@@ -1,0 +1,38 @@
+{
+  "nombre": "Peon",
+  "altura_m": 1.74,
+  "macros": {
+    "gender": 1.0,
+    "age": 0.55,
+    "muscle": 0.55,
+    "weight": 0.5,
+    "height": 0.5,
+    "proportions": 0.5,
+    "race": { "african": 0.1, "asian": 0.15, "caucasian": 0.75 }
+  },
+  "targets": {
+    "head-oval": 0.2,
+    "chin-prominent-incr": 0.3,
+    "l-cheek-bones-incr": 0.3,
+    "r-cheek-bones-incr": 0.3,
+    "nose-scale-vert-decr": 0.1
+  },
+  "rig": "game_engine",
+  "assets": [
+    { "tipo": "Eyes", "nombre": "low-poly", "objeto": "Ojos" },
+    { "tipo": "Eyebrows", "nombre": "eyebrow001", "objeto": "Cejas" },
+    { "tipo": "Eyelashes", "nombre": "eyelashes01", "objeto": "Pestanas" },
+    { "tipo": "Hair", "nombre": "short02", "objeto": "Pelo" },
+    { "tipo": "Teeth", "nombre": "teeth_base", "objeto": "Dientes" },
+    { "tipo": "Clothes", "nombre": "male_worksuit01", "objeto": "Ropa" },
+    { "tipo": "Clothes", "nombre": "shoes01", "objeto": "Zapatos" }
+  ],
+  "borrar_cuerpo_bajo_ropa": true,
+  "piel": { "pack": "young_caucasian_male", "tono": [0.95, 0.88, 0.80] },
+  "decimar": { "ratio": 0.5, "proteger": { "head": 1.0, "neck_01": 0.7, "mano": 0.5 } },
+  "hornear": true,
+  "tam_textura": 2048,
+  "decimar_dientes": 0.2,
+  "vistas": ["frente", "tres_cuartos", "cara"],
+  "salida": { "carpeta": "salida_peon", "formatos": ["blend", "fbx", "glb"], "motor": "unity" }
+}

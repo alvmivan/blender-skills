@@ -1,0 +1,11 @@
+{
+  "name": "blender-ai-tools",
+  "owner": { "name": "Marcos Alvarez", "url": "https://www.caldengames.com" },
+  "plugins": [
+    {
+      "name": "blender-ai-tools",
+      "source": "./",
+      "description": "Humanoides de MakeHuman (MPFB) en Blender, por script y listos para juegos."
+    }
+  ]
+}
